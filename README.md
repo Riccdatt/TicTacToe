@@ -1,7 +1,7 @@
 # TicTacToe
 A classic Tic tac toe game, you against the computer
 
-To play you need to install the Python package "pygame". Then downloadd the 4 files and just run 'runner.py'. Have fun :)
+To play you need to install the Python package "pygame". Then download the 4 files and just run 'runner.py'. Have fun :)
 
 Disclaimer:
 
